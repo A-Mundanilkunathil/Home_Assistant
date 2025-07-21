@@ -142,3 +142,29 @@ pytest_buckets.txt
 # AI tooling
 .claude
 
+# Node.js dependencies
+node_modules/
+yarn.lock
+package-lock.json
+
+# Python virtual environments (additional)
+ENV/
+env/
+
+# System-specific files
+Thumbs.db
+
+# Editor/IDE folders (additional)
+.spyderproject
+.spyproject
+
+# Jupyter Notebooks
+*.ipynb_checkpoints
+
+# Local database files
+*.sqlite3
+*.db
+
+# Other common Python build artifacts
+MANIFEST
+
